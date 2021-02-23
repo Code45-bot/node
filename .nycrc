@@ -18,4 +18,5 @@
   "omit-relative": false,
   "resolve": "./lib",
   "wrapper-length": 0
+   console.log("Message");
 }
